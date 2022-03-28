@@ -1,10 +1,10 @@
 # Pre-training BERT Masked Language Models (MLM)
 
-This repository contains the method to pre-train a BERT model using custom vocabulary. It was used to pre-train JuriBERT presented in [https://arxiv.org/abs/2110.01485].
+This repository contains the method to pre-train a BERT model using custom vocabulary. It was used to pre-train JuriBERT presented in the <a href="https://arxiv.org/abs/2110.01485" target="_blank">relevant paper</a>.
 
 It also contains the code of the classification task that was used to evaluate JuriBERT.
 
-Our models can be found at [http://master2-bigdata.polytechnique.fr/FrenchLinguisticResources/resources#juribert] and downloaded upon request.
+Our models can be found at the <a href="http://nlp.polytechnique.fr/resources#juribert" target="_blank">French Language Portal</a> and downloaded upon request.
 
 ## Instructions
 To pre-train a new BERT model you need the path to a dataset containing raw text. 
